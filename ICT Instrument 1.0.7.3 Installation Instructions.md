@@ -1,6 +1,6 @@
 ### ICT Instrument Combined Instrument Software version 1.0.7.3 Installation Instructions
 1. Ensure the SFM1x is not connected to the computer
-1. Download and install (For Windows 10, Windows 11 AMD/Intel) both of the “Microsoft Visual C++
+1. Download and install (For Windows 10, Windows 11, AMD/Intel) both of the “Microsoft Visual C++
 	Redistributable Packages” from the Microsoft Website. Direct links can be found below:
 	https://aka.ms/vs/17/release/vc_redist.x86.exe Permalink for latest supported x86 version
 	https://aka.ms/vs/17/release/vc_redist.x64.exe
